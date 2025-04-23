@@ -2,6 +2,9 @@
 
 This project involves the configuration and analysis of dynamic routing protocols—OSPF and RIP—on a multi-router network topology. The aim is to compare their routing behavior, path selection criteria, and performance impact.
 
+![Cisco Network](https://img.shields.io/badge/Cisco-Router-blue)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+
 
 ## 🧩 Project Objectives
 
